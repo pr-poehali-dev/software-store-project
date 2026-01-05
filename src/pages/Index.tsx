@@ -111,7 +111,7 @@ const Index = () => {
                 <Icon name="Zap" className="text-white" size={24} />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-                GameSoft
+                DarkZone
               </span>
             </div>
             <div className="hidden md:flex items-center gap-6">
@@ -213,16 +213,6 @@ const Index = () => {
                   <div className="text-3xl font-bold text-accent">24/7</div>
                   <div className="text-sm text-muted-foreground">Поддержка</div>
                 </div>
-              </div>
-            </div>
-            <div className="flex-1">
-              <div className="relative">
-                <div className="absolute inset-0 bg-gradient-to-r from-primary to-secondary opacity-20 blur-3xl rounded-full"></div>
-                <img
-                  src="https://cdn.poehali.dev/projects/cae294b2-6665-4376-bbfb-278d046b9096/files/b89a3de9-0420-422d-a958-a7306aa2b7d4.jpg"
-                  alt="Gaming"
-                  className="relative rounded-2xl shadow-2xl border border-primary/20"
-                />
               </div>
             </div>
           </div>
@@ -333,7 +323,7 @@ const Index = () => {
           </div>
           <div className="space-y-6 text-lg text-muted-foreground">
             <p>
-              <span className="text-foreground font-bold">GameSoft</span> — ведущий магазин игровых программ, читов и
+              <span className="text-foreground font-bold">DarkZone</span> — ведущий магазин игровых программ, читов и
               макросов с 2020 года. Мы помогаем геймерам улучшать свои навыки и достигать новых высот.
             </p>
             <p>
@@ -403,7 +393,7 @@ const Index = () => {
                 </div>
                 <h3 className="text-xl font-bold">Email</h3>
               </div>
-              <p className="text-muted-foreground mb-4">support@gamesoft.store</p>
+              <p className="text-muted-foreground mb-4">support@darkzone.store</p>
               <Button className="w-full bg-gradient-to-r from-accent to-primary hover:opacity-90">
                 Написать Email
               </Button>
@@ -431,10 +421,10 @@ const Index = () => {
               <Icon name="Zap" className="text-white" size={20} />
             </div>
             <span className="text-xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-              GameSoft
+              DarkZone
             </span>
           </div>
-          <p className="text-sm">© 2024 GameSoft. Все права защищены.</p>
+          <p className="text-sm">© 2024 DarkZone. Все права защищены.</p>
           <p className="text-xs mt-2">Магазин игровых программ, читов и макросов</p>
         </div>
       </footer>
